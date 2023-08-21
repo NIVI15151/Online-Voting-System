@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(136, 223, 182, 0.959) ;
+}
+
+#headersection{
+    padding: 10px;
+}	
+#headersectionh1{
+    font-weight: bold ;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
